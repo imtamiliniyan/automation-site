@@ -83,14 +83,14 @@ export default function RootLayout({
               <div>
                 <h3 className="font-semibold mb-4">Connect</h3>
                 <div className="flex flex-col gap-2">
-                  <a href="#" className="text-muted-foreground hover:text-primary transition-colors">LinkedIn</a>
-                  <a href="#" className="text-muted-foreground hover:text-primary transition-colors">Twitter</a>
-                  <a href="#" className="text-muted-foreground hover:text-primary transition-colors">Email</a>
+                  <a href="https://linkedin.com/in/imtamiliniyan" className="text-muted-foreground hover:text-primary transition-colors">LinkedIn</a>
+                  <a href="https://facebook.com/imtamiliniyan" className="text-muted-foreground hover:text-primary transition-colors">Facebook</a>
+                  <a href="mailto:tamil@iniyan.pro" className="text-muted-foreground hover:text-primary transition-colors">Email</a>
                 </div>
               </div>
             </div>
             <div className="border-t mt-12 pt-8 text-center text-muted-foreground">
-              © {new Date().getFullYear()} AutomationPro. All rights reserved.
+              © {new Date().getFullYear()} AutomationPro. Tamil Iniyan. All rights reserved.
             </div>
           </div>
         </footer>
